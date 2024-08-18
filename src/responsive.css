@@ -67,4 +67,11 @@
         -moz-box-shadow:none;
         box-shadow:none
     }
+    .header-titles h2{
+        font-size:30px;
+        margin-bottom:10px
+    }
+    .header-titles h4{
+        font-size:17px
+    }
 }
