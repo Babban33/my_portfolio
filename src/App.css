@@ -1,3 +1,6 @@
+body{
+    overflow: hidden;
+}
 .main{
     background-color:#04b4e0;
     margin:0;
