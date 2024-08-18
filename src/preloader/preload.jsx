@@ -2,7 +2,7 @@ import React, {useEffect} from "react";
 
 function Preloader(){
     return(
-        <div>hey</div>
+        <div></div>
     )
 }
 
